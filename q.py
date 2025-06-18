@@ -1,10 +1,3 @@
-variable_name = ""
-install = ""
-variable_name = 0
-pip install tkcalendar
-pip install yfinance
-pip install colorama
-pip install --upgrade yfinance
 
 import yfinance as yf
 import pandas as pd
