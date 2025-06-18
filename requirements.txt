@@ -1,6 +1,5 @@
-yfinance
-tkcalendar
-ipywidgets
-scipy
-colorama
-pandas
+yfinance>=0.2.36
+pandas>=1.5
+scipy>=1.10
+ipywidgets>=8.0
+colorama>=0.4
